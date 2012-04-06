@@ -1,0 +1,4 @@
+## FLV TO MP3 CONVERTER
+Program extracts mp3 (audio) from a specified flv file by parsing bit-by-bit 
+unlike all general approaches of using ffmpeg to parse directly.
+_Please note that process is highly CPU intensive. If you just wish to try out application for now, I suggest you to use small flv. _
