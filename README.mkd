@@ -1,5 +1,5 @@
 ##FLV TO MP3 CONVERTER
-<img src="https://github.com/AnkurGel/FLV-to-MP3-parser/src/scr.png" align="left">
+<img src="https://github.com/AnkurGel/FLV-to-MP3-parser/blob/master/src/scr.png" align="left">
 - Program extracts mp3 (audio) from a specified flv file by parsing bit-by-bit unlike all general approaches of using ffmpeg to parse directly.
 
 _Please note that process is highly CPU intensive. If you just wish to try out application for now, I suggest you to use small flv._
